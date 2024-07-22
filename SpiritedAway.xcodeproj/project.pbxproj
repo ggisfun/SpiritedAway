@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4782D17F2C4A5A1E00170CFC /* SpiritedAway.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpiritedAway.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4782D17F2C4A5A1E00170CFC /* 神隱少女電子書.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "神隱少女電子書.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4782D1822C4A5A1E00170CFC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4782D1842C4A5A1E00170CFC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		4782D1862C4A5A1E00170CFC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		4782D1802C4A5A1E00170CFC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4782D17F2C4A5A1E00170CFC /* SpiritedAway.app */,
+				4782D17F2C4A5A1E00170CFC /* 神隱少女電子書.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4782D17E2C4A5A1E00170CFC /* SpiritedAway */ = {
+		4782D17E2C4A5A1E00170CFC /* 神隱少女電子書 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4782D1932C4A5A1F00170CFC /* Build configuration list for PBXNativeTarget "SpiritedAway" */;
+			buildConfigurationList = 4782D1932C4A5A1F00170CFC /* Build configuration list for PBXNativeTarget "神隱少女電子書" */;
 			buildPhases = (
 				4782D17B2C4A5A1E00170CFC /* Sources */,
 				4782D17C2C4A5A1E00170CFC /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = SpiritedAway;
+			name = "神隱少女電子書";
 			productName = SpiritedAway;
-			productReference = 4782D17F2C4A5A1E00170CFC /* SpiritedAway.app */;
+			productReference = 4782D17F2C4A5A1E00170CFC /* 神隱少女電子書.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4782D17E2C4A5A1E00170CFC /* SpiritedAway */,
+				4782D17E2C4A5A1E00170CFC /* 神隱少女電子書 */,
 			);
 		};
 /* End PBXProject section */
@@ -351,7 +351,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4782D1932C4A5A1F00170CFC /* Build configuration list for PBXNativeTarget "SpiritedAway" */ = {
+		4782D1932C4A5A1F00170CFC /* Build configuration list for PBXNativeTarget "神隱少女電子書" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4782D1942C4A5A1F00170CFC /* Debug */,
